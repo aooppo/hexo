@@ -1,7 +1,7 @@
-title: Whats new in Spring Boot 2
+title: What's new in Spring Boot 2
 date: 2018-03-09T09:35:26.198Z
 tags: [springboot]
-categories: []
+categories: [springboot]
 ---
 # 新版本值得关注的亮点有哪些：
 
